@@ -1,3 +1,4 @@
-<php
-$test = 'jeroen'
+<?php
+$test = 'jeroen';
+echo $test;
 
