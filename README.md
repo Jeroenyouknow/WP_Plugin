@@ -1,4 +1,4 @@
-# WP_Plugin
+# Version 1.00
 Basis creation of a WP plugin/mix off
 
 - Send email when an post is created
